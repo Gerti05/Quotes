@@ -1,0 +1,57 @@
+body {
+  background-color: #e74c3c;
+  margin-top: 35vh;
+}
+
+.quoteBackground {
+  background-color: #fff;
+  border-radius: 10px;
+  width: 30%;
+}
+
+.quoteColor {
+  color: #e74c3c;
+}
+
+.nameColor {
+  color: #e74c3c;
+}
+
+.fa-twitter-square {
+  color: #e74c3c;
+  background-color: #fff;
+}
+
+.btn-danger {
+  background-color: #e74c3c;
+  border-color: #e74c3c;
+  color: #ffffff;
+}
+
+.btn-danger:hover {
+  background-color: #e74c3c;
+  border-color: #e74c3c;
+  color: #ffffff;
+}
+
+.btn-danger.focus, .btn-danger:focus {
+    box-shadow: none;
+}
+
+.btn {
+    transition: none
+}
+
+.btn-danger:not(:disabled):not(.disabled).active:focus, .btn-danger:not(:disabled):not(.disabled):active:focus, .show>.btn-danger.dropdown-toggle:focus {
+    box-shadow: none;
+}
+
+.fiive {
+    color: #fff;
+    margin-top: 10px;;
+}
+
+.fa-copyright {
+    margin-top: 5px;
+    margin-left: 5px;
+}
